@@ -1,0 +1,9 @@
+# Setup file for environment data
+# creditials, secret token, private files, etc...
+.env
+service_key.json
+
+# Ignore node_modules folder
+node_modules
+logs/*.json
+logs/*.txt
